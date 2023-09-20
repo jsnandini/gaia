@@ -1,0 +1,9 @@
+apiVersion: v2
+name: gaia
+description: A Helm chart for Gaia and Gaia Runner
+
+type: application
+
+version: 0.1.2
+
+appVersion: "2.4.0"
